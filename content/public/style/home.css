@@ -1,7 +1,9 @@
-
-
 .homepage-row {
          columns: 2 200px;
+}
+
+.homepage-column {
+    display: block;
 }
 
 .highlight {
