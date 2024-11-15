@@ -6,7 +6,7 @@
 /qr /join 302
 /cardqr /conduct 302
 /movember https://www.movember.com/t/shefesh?mc=1 302
-/hackathon http://3.10.214.13:8000/ 302
+/hackathon http://3.10.214.13:8000/ 301
 
 # Resources merged into new "Useful Links" section
 /wiki/resources /wiki/Useful_Links 301
