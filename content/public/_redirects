@@ -6,7 +6,7 @@
 /qr /join 302
 /cardqr /conduct 302
 /movember https://www.movember.com/t/shefesh?mc=1 302
-/cc /wiki/About_the_Society/Code_of_Conduct/ 302
+/hackathon /wiki/About_the_Society/Code_of_Conduct/ 302
 # Resources merged into new "Useful Links" section
 /wiki/resources /wiki/Useful_Links 301
 
