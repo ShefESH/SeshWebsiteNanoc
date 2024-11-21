@@ -1,10 +1,10 @@
-VMware is a 
+VMware is a piece of software for creating virtual machines.
 
 # Creating a Broadcom account
 
 To download and run VMware you need a Broadcom account. Creating one is fairly straightforward:
 
-- visit the [https://profile.broadcom.com/web/registration](account registration page), and enter your email address
+- visit the [account registration page](https://profile.broadcom.com/web/registration), and enter your email address
 - you will immediately be sent a verification code by email that you will need to enter on the next page
 - finally you will be asked to provide your name and country, and agree to the terms and conditions.
 
@@ -45,3 +45,44 @@ Click "yes" when asked whether to proceed with "additional verification". You wi
 You will also be asked to agree that you will not re-export the software or use it "for nuclear. missile, chemical biological weaponry. or other weapons of mass destruction".
 
 Once you've done that, click "Submit" - you'll end up back on the download page, and you'll have to click the download icon _again_ to actually download the file.
+
+# Creating a Virtual Machine
+You can use any operating system you like for the VM, provided you have the iso file for the operating system.
+
+We will use Kali Linux as an example, as we use it often, but we will provide guides on other operating systems if we require you to use them.
+
+Kali also provides Virtual Machine 'images' that are configured to work with VMware and other virtual machine applications.
+
+## Download the Pre-built VM File
+Follow this [link](https://www.kali.org/get-kali/#kali-virtual-machines) and download the VMware file. 
+
+Uncompress the file. This will take awhile, be prepared to wait.
+
+
+## Loading the VM File
+Open VMware and select the 'for personal use' option. Once you have done this, you should see something like the image below. This  will vary with the version of VMware and operating system you use.
+
+![The VMware opening screen](../VMware-opening-screen.png)
+
+Once the kali download has finished uncompressing, select the 'Open a Virtual Machine' option in VMware.
+
+Locate the folder that you have uncompressed, and open the folders (there may be multiple folders deep) and then select the file (there is only one file). 
+
+![The VMware Screen once the kali file has been opened](../virtual-kali-loaded.png)
+
+Pictured above is the screen you should see once the file has been opened. 
+
+## Running the VM
+
+Select the 'Power on this virtual machine' option.
+
+Click ok to any warnings that may appear, and wait for the VM to load.
+
+![The VMware Kali fully loaded](../kali-vm-running.png)
+
+You should see this login screen once kali has fully booted up.
+
+The username and password is the default of: username = kali, password = kali
+
+Once you have finished using the VM, select the drop down on the orange pause button in the image above.
+Then select power off.
