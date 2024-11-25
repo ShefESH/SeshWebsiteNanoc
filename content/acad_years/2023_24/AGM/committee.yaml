@@ -1,0 +1,12 @@
+committee:
+  - president:
+      - name: Echo
+        won: 'true'
+    treasurer:
+      - name: Luca
+        won: 'true'
+    inclusions:
+      - name: Keshav
+        won: 'true'
+      - name: Test
+        won: 'false'

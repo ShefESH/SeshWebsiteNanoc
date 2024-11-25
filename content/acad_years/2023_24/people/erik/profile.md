@@ -1,6 +1,6 @@
 ---
 id: erik
-role: Competitions Officer
+role: General Member
 priority: 2
 name: Erik
 bio: Erik is a 1st year Software Engineering student.
