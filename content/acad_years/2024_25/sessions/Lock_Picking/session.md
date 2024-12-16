@@ -1,6 +1,6 @@
 ---
-title: Intro to Web Hacking
-date: 2024-12/16
+title: Intro to Lock Picking
+date: 2024-12-16
 start-time: "18:00"
 end-time: "19:30"
 presenter: Echo
