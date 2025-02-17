@@ -7,7 +7,7 @@ presenter: Echo
 room: "Workroom 3"
 building: the-diamond
 difficulty: I
-depends: kali
+depends: ['kali']
 ---
 
 We will look at the security vulnerabilities of enterprise WiFi, and how to mitigate them.
