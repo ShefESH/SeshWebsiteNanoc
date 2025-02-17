@@ -1,5 +1,5 @@
 ---
-title: Enumeration
+title: Enterprise WiFi
 date: 2025-02-17
 start-time: "18:00"
 end-time: "19:30"
