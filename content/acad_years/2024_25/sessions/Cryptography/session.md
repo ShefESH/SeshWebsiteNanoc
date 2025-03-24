@@ -1,6 +1,6 @@
 ---
 title: Cryptography
-date: 2025-24-03
+date: 2025-03-24
 start-time: "18:00"
 end-time: "19:30"
 presenter: Luca
