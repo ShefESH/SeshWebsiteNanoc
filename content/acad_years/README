@@ -1,1 +1,30 @@
 This directory will contain a subdirectory for each academic year the society is active.
+
+Each year folder should be in the format YYYY_YY (i.e 2025_26)
+Inside this folder you need: people/ and sessions/
+
+Within people/ put a folder with the name of the person, and within the folder create a markdown (.md) file with the name profile,
+i.e joe/profile.md
+<br/>
+Also put a photo, preferably in the format (name).jpg - it must be a jpg/jpeg format
+
+Within the markdown file, copy and paste:
+```
+---
+id:
+role:
+priority: 
+name: 
+bio:
+image:
+---
+```
+<br/>
+The id should be lowercase first name of the person.
+Priority should be determined based on role:
+- 0: President
+- 1: Core Committee (Inclusions, Treasury, Secretary)
+- 2: Other Roles (Tech, Competitions, etc)
+- 3: General Members
+<br/>
+image should be the name of the image file uploaded earlier AND should include the extension (i.e joe.jpeg)
