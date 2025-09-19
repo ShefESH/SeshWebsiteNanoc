@@ -15,4 +15,4 @@ gem 'kramdown'
 gem "rouge"
 gem 'erb'
 gem "rexml", ">= 3.3.6"
-gem 'webrick'
+gem "webrick"
