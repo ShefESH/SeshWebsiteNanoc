@@ -5,8 +5,7 @@ Each year folder should be in the format YYYY_YY (i.e 2025_26)
 Inside this folder you need: people/ and sessions/
 
 ## People
-Within people/ put a folder with the name of the person, and within the folder create a markdown (.md) file with the name profile,
-i.e joe/profile.md
+Within people/ put a folder with the name of the person, and within the folder create a markdown (.md) file 'profile.md'
 <br/>
 Also put a photo, preferably in the format (name).jpg - it must be a jpg/jpeg format
 
