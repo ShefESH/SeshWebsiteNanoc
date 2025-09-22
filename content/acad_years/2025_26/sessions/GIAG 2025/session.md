@@ -1,10 +1,10 @@
 ---
 title: GIAG - Introduction to Hacking
-date: 2024-09-23
-start-time: "16:15"
-end-time: "17:30"
-presenter: Echo
-room: "Workroom 2"
+date: 2025-922
+start-time: "12:00"
+end-time: "13:00"
+presenter: Euan, Oli, Josh
+room: "Computer Room 1"
 building: the-diamond
 difficulty: B
 ---
