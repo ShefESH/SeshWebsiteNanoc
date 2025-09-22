@@ -1,6 +1,6 @@
 ---
 title: GIAG - Introduction to Hacking
-date: 2025-922
+date: 2025-09-22
 start-time: "12:00"
 end-time: "13:00"
 presenter: Euan, Oli, Josh
