@@ -3,7 +3,7 @@ title: GIAG - Introduction to Hacking
 date: 2025-09-22
 start-time: "12:00"
 end-time: "13:00"
-presenter: Euan, Oli, Josh
+presenter: Various Committee
 room: "Computer Room 1"
 building: the-diamond
 difficulty: B
