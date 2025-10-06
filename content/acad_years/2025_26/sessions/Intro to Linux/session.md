@@ -3,7 +3,7 @@ title: Intro to Linux
 date: 2025-10-06
 start-time: "18:00"
 end-time: "19:30"
-presenter: Josh
+presenter: Oli, Echo
 room: "Workroom 3"
 building: the-diamond
 difficulty: B
