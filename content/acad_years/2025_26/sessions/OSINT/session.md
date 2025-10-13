@@ -9,4 +9,4 @@ building: the-diamond
 difficulty: B
 ---
 
-We’ll be showing you the basics of how to use the Bash shell to interact with a Linux system from the command line. As before, everyone is welcome - you just need to bring a laptop, and we’ll teach you everything you need to know.
+OSINT, or Open Source INTelligence, is the gathering and analysis of information gained from open sources. We will look at this in detail, common methods of finding information, common mistakes people make when trying to hide it, and how this information can be used.
