@@ -1,13 +1,13 @@
 ---
-id: eleanor
+id: uzay
 role: General Member
 priority: 3
-name: Eleanor
-bio: Eleanor is a 1st year computer science student
-image: eleanor.jpg
+name: Uzay
+bio: Uzay is a MSc Cyber Security and AI student
+image: uzay.jpg
 contact: 
 contact-name: linkedin.png 
-contact-link: 
+contact-link: linkedin.com/in/uzay-kayra-cetinkaya
 personal-name: github.png
-personal-link: 
+personal-link: https://github.com/UZYPC
 ---
