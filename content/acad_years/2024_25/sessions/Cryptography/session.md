@@ -9,8 +9,4 @@ building: the-diamond
 difficulty: B
 ---
 
-<<<<<<< HEAD
-We will work on Cryptography! It'll be fun
-=======
 We will be covering uses of, and how to build different forms of encryption
->>>>>>> 67b78abf4f815932d1cf3992cb65517aca905d1f
