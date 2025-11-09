@@ -1,1 +1,54 @@
+# Acad Years
 This directory will contain a subdirectory for each academic year the society is active.
+
+Each year folder should be in the format YYYY_YY (i.e 2025_26)
+Inside this folder you need: people/ and sessions/
+
+## People
+Within people/ put a folder with the name of the person, and within the folder create a markdown (.md) file 'profile.md'
+<br/>
+Also put a photo, preferably in the format (name).jpg - it must be a jpg/jpeg format
+
+Within the markdown file, copy and paste:
+```
+---
+id:
+role:
+priority: 
+name: 
+bio:
+image:
+---
+```
+<br/>
+The id should be lowercase first name of the person.
+Priority should be determined based on role:
+- 0: President
+- 1: Core Committee (Inclusions, Treasury, Secretary)
+- 2: Other Roles (Tech, Competitions, etc)
+- 3: General Members
+<br/>
+image should be the name of the image file uploaded earlier AND should include the extension (i.e joe.jpeg)
+
+
+## Sessions
+To add a new session, create a folder with the name of the session within sessions/, such as OSINT/ <br/>
+Within this file upload a pdf copy of the session slides (where applicable), also create a session.md file.<br/>
+Within this session.md copy and paste this:
+```
+---
+title: 
+date: YYYY-MM-DD
+start-time: ""
+end-time: ""
+presenter:
+room:
+building:
+difficulty: 
+---
+```
+Fill these in accordingly. For more details, have a look at the Wiki page on the live site (or under the wiki/ directory).
+Difficulty MUST be one of:
+- B: Beginner
+- I: Intermediate
+- X: Expert

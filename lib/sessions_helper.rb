@@ -36,7 +36,7 @@ end
 def session_files(item)
     directory = File.dirname(item.raw_filename)
     files = Dir.children(directory) - ["session.md"]
-    return "<p>There are no files associated with this session.</p>" if files.empty?
+    return "<p>No files for this session are available at the moment.</p>" if files.empty?
     "<div>
         <details>
             <summary><h4>Session files</h4></summary>

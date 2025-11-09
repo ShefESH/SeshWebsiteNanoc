@@ -3,10 +3,12 @@
 /kalivm /wiki/Fundamental_Skills/Linux/1._Installing_Kali_Linux_in_a_Virtual_Machine/ 302
 /join https://su.sheffield.ac.uk/shop?activity_id=287 302
 /discord https://discord.gg/rhfnwgphdx 302
+/movember https://movember.com/t/shefesh?mc=1 302
+/ctf https://ctf.shefesh.com 302
+
+# QR codes
 /qr /join 302
 /cardqr /conduct 302
-/movember https://movember.com/t/shefesh?mc=1 302
-
 
 # Resources merged into new "Useful Links" section
 /wiki/resources /wiki/Useful_Links 301
@@ -27,3 +29,5 @@
 /wiki/fundamental-skills/automation-1---bash-scripting.pdf /wiki/Fundamental_Skills/Automation/1._Bash_Scripting 301
 /wiki/fundamental-skills/automation-2---python-scripting.pdf /wiki/Fundamental_Skills/Automation/2._Python_Scripting 301
 /wiki/juice-shop-setup /wiki/Software_Setup_Guides/Juice_Shop/ 301
+/assets/wiki/wifi_hacking.pdf /acad_years/2024_25/sessions/WiFI_Hacking/WPA2_Wifi_Hacking.pdf 301
+/downloads/SESH%20Code%20of%20Conduct.pdf /conduct 301
